@@ -20,3 +20,6 @@ def ordenarunacadena(cadena):
 ordenarunacadena(c)
 
 #def anagramas(anagrama):
+
+# git diffS
+
